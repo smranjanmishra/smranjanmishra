@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I am an Aspiring Software Development Engineer.
 
 <p align="center">
-  <a href="www.youtube.com/c/SavageProgrammer" target="_blank"><img src="https://github.com/KushalVijay/KushalVijay/blob/main/finallogo1.jpg" height="200" width="220"> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="www.youtube.com/c/SavageProgrammer" target="_blank"><img src="https://github.com/smranjanmishra/smranjanmishra/blob/main/Savage%20Programmer.jpg" height="200" width="220"> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=smranjanmishra&show_icons=true&locale=en" alt="smranjanmishra"">
 </p>
 
