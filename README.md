@@ -1,6 +1,6 @@
 <hi align="center">Hi there, I am Soumya Ranjan Mishra 👋</h1>
 
-- 🔭 I’m currently working as SDE Intern for <a href="https://www.jpmorganchase.com/" target="_blank">JP Morgan Chase & Co</a>
+- 🔭 I’m an aspiring Software Developer.
 - 💬 Ask me about <strong>Java, DSA and Spring Boot </strong>
 - 🌱 I’m currently learning <strong>System Design & Its Applications </strong>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/smranjanmishra/" target="_blank">Soumya Ranjan Mishra</a>
