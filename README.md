@@ -1,6 +1,6 @@
 <hi align="center">Hi there, I am Soumya Ranjan Mishra 👋</h1>
 
-- 🔭 Currently: Software Developer at Bureau.  
+- 🔭 Currently: Software Developer at <strong>Bureau</strong>.  
 - 💬 Expertise: <strong>Java, DSA and Spring Boot. </strong>
 - 🌱 I’m currently learning <strong>System Design & Its practical Applications. </strong>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/smranjanmishra/" target="_blank">Soumya Ranjan Mishra</a>
