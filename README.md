@@ -1,11 +1,10 @@
 <hi align="center">Hi there, I am Soumya Ranjan Mishra 👋</h1>
 
-- 🔭 I’m an aspiring Software Developer.
-- 💬 Ask me about <strong>Java, DSA and Spring Boot </strong>
-- 🌱 I’m currently learning <strong>System Design & Its Applications </strong>
+- 🔭 Currently: Software Developer at Bureau.  
+- 💬 Expertise: <strong>Java, DSA and Spring Boot. </strong>
+- 🌱 I’m currently learning <strong>System Design & Its practical Applications. </strong>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/smranjanmishra/" target="_blank">Soumya Ranjan Mishra</a>
-- ⚡ Fun fact: I am an Aspiring Software Development Engineer.
-
+- ⚡ Fun fact: Passionate about crafting efficient software solutions as an aspiring Software Development Engineer.
 <p align="center">
   <a href="www.youtube.com/c/SavageProgrammer" target="_blank"><img src="https://github.com/smranjanmishra/smranjanmishra/blob/main/Savage%20Programmer.jpg" height="200" width="220"> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=smranjanmishra&show_icons=true&locale=en" alt="smranjanmishra"">
